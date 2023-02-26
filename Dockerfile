@@ -6,7 +6,6 @@ WORKDIR /app
 COPY main.py /app/main.py
 COPY requirements.txt /app/requirements.txt
 COPY functions.py /app/functions.py
-COPY .env /app/.env
 
 RUN pip install -r requirements.txt
 
