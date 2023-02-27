@@ -39,10 +39,9 @@ pip install -r requirements.txt
 Finally , run this bot:
 ```
 python funtion.py
-
 ```
 
-#Deployment
+# Deployment
 
 <p align="center">
   <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
