@@ -42,14 +42,11 @@ python funtion.py
 
 ```
 
-## Deployment
+#Deployment
 
 <p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
-  </a>
   <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
-    <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
+    <img src="https://www.herokucdn.com/deploy/button.svg" width="300">
   </a>
 </p>
 
@@ -60,4 +57,4 @@ python funtion.py
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at aikyn.baurzhanovich99@gmail.com
